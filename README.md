@@ -30,7 +30,7 @@ Feel free to use, adapt, or build on any of these for your own projects.
 ## How I Use These
 
 These templates were developed and refined through:
-- Nonprofit website sprints with [48in48](https://48in48.org)
+- 5 nonprofit website sprints with [48in48](https://48in48.org)
 - Volunteer program coordination with LifeSmart Education
 - Enterprise account management and rollout projects in B2B telecom
 
