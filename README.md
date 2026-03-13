@@ -1,6 +1,6 @@
 # PM Templates Toolkit
 
-A collection of project management templates I use across volunteer and professional projects. Built for practical, real-world use — not just theory.
+A collection of project management templates I use across volunteer and professional projects. Built for practical, real-world use, not just theory.
 
 Feel free to use, adapt, or build on any of these for your own projects.
 
