@@ -38,4 +38,4 @@ These templates were developed and refined through:
 
 ## Tools These Pair With
 
-`Jira` `Microsoft Project` `Workfront` `Google Sheets` `Notion` `Confluence`osoft Project` `Workfront` `Google Sheets` `Notion` `Confluence` `PowerBI`
+`Jira` `Microsoft Project` `Workfront` `Google Sheets` `Notion` `Confluence` `PowerBI`
