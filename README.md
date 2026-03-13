@@ -30,7 +30,7 @@ Feel free to use, adapt, or build on any of these for your own projects.
 ## How I Use These
 
 These templates were developed and refined through:
-- 5 nonprofit website sprints with [48in48](https://48in48.org)
+- Nonprofit website sprints with [48in48](https://48in48.org)
 - Volunteer program coordination with LifeSmart Education
 - Enterprise account management and rollout projects in B2B telecom
 
@@ -38,4 +38,4 @@ These templates were developed and refined through:
 
 ## Tools These Pair With
 
-`Jira` `Microsoft Project` `Workfront` `Google Sheets` `Notion` `Confluence`osoft Project` `Workfront` `Google Sheets` `Notion` `Confluence`
+`Jira` `Microsoft Project` `Workfront` `Google Sheets` `Notion` `Confluence`osoft Project` `Workfront` `Google Sheets` `Notion` `Confluence` `PowerBI`
