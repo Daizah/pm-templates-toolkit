@@ -1,143 +1,90 @@
-# Project Retrospective Template
+# Project Retrospective
 
-**Project Name:**
-**Retrospective Date:**
-**Facilitator:**
-**Attendees:**
-
----
-
-## Purpose
-
-The retrospective is a structured reflection held at the end of a project or sprint. The goal is to identify what went well, what could be improved, and what actions the team will take going forward. Honest and constructive input from everyone makes this most valuable.
+**Project Name:** [Project Name]
+**Sprint / Phase:** [Sprint # or Phase Name]
+**Date:** [MM/DD/YYYY]
+**Facilitator:** [Project Manager Name]
+**Attendees:** [List names]
 
 ---
 
-## Project Summary
+## Overview
 
-| Item | Details |
-|---|---|
-| Project Duration | |
-| Final Delivery Date | |
-| Original Target Date | |
-| Delivered On Time? | Yes / No |
-| Team Size | |
-| Key Deliverables | |
+[1-2 sentences summarizing what was reviewed in this retrospective — what phase or sprint just completed and what the goal of this session was.]
 
 ---
 
-## 1. What Went Well
+## What Went Well ✅
 
-*(Celebrate wins. What should the team keep doing? What worked better than expected?)*
+*Celebrate wins — these practices should be continued or repeated.*
 
-| Item | Why It Worked | Keep Doing? |
-|---|---|---|
-| | | Yes |
-| | | Yes |
-| | | Yes |
-
-**Key Strengths This Project:**
--
--
--
+| # | What Went Well | Impact |
+|---|---------------|--------|
+| 1 | [Something that worked] | [Why it mattered] |
+| 2 | [Something that worked] | [Why it mattered] |
+| 3 | [Something that worked] | [Why it mattered] |
 
 ---
 
-## 2. What Could Be Improved
+## What Could Be Improved 🔧
 
-*(Honest reflection, not blame. What slowed the team down? What created confusion or rework?)*
+*Honest feedback — these are areas to address in the next sprint or phase.*
 
-| Item | Root Cause | Impact on Project |
-|---|---|---|
-| | | |
-| | | |
-
-**Recurring Friction Points:**
--
--
--
+| # | What Could Be Improved | Root Cause | Priority |
+|---|----------------------|-----------|---------|
+| 1 | [Something that didn't work] | [Why did this happen?] | High / Med / Low |
+| 2 | [Something that didn't work] | [Why did this happen?] | High / Med / Low |
+| 3 | [Something that didn't work] | [Why did this happen?] | High / Med / Low |
 
 ---
 
-## 3. What Surprised Us
+## Action Items for Next Sprint / Phase
 
-*(Anything unexpected, positive or negative, that the team should be aware of for future projects)*
-
--
--
--
-
----
-
-## 4. Action Items for Next Time
-
-*(Specific, actionable changes the team commits to making. Each item needs an owner.)*
-
-| Action | Owner | Apply To | Priority |
-|---|---|---|---|
-| | | Next project / Immediately | High |
-| | | Next project / Immediately | Medium |
-| | | Next project / Immediately | Low |
+| Action | Owner | Due Date | Success Metric |
+|--------|-------|---------|---------------|
+| [Specific action to improve] | [Name] | [Date] | [How we'll know it worked] |
+| [Specific action to improve] | [Name] | [Date] | [How we'll know it worked] |
+| [Specific action to improve] | [Name] | [Date] | [How we'll know it worked] |
 
 ---
 
-## 5. Team Feedback
+## Team Sentiment
 
-*(Optional, gather individual input before or during the retro using these prompts)*
+*Rate the team's experience this sprint on a scale of 1-5.*
 
-**What is one thing you would do differently?**
-
-**What is one thing you are most proud of?**
-
-**What is one thing you want the team to stop doing?**
-
-**What is one thing you want the team to start doing?**
-
----
-
-## 6. Client / Stakeholder Feedback
-
-*(Summarize any feedback received from the client, sponsor, or end users)*
-
-| Source | Feedback | Sentiment | Action Needed |
-|---|---|---|---|
-| | | Positive / Neutral / Negative | |
+| Category | Rating (1-5) | Comments |
+|----------|-------------|---------|
+| Team Communication | [Rating] | [Optional comment] |
+| Clarity of Goals | [Rating] | [Optional comment] |
+| Workload Balance | [Rating] | [Optional comment] |
+| Stakeholder Engagement | [Rating] | [Optional comment] |
+| Overall Satisfaction | [Rating] | [Optional comment] |
 
 ---
 
-## 7. Metrics Review
+## Lessons Learned
 
-*(Compare planned vs. actual outcomes)*
+[Key takeaways that should be documented and carried forward to future projects — not just this sprint, but institutional knowledge for the team.]
 
-| Metric | Planned | Actual | Variance |
-|---|---|---|---|
-| Delivery Date | | | |
-| Budget | | | |
-| Scope Changes | | | |
-| Team Satisfaction | | | |
-| Client Satisfaction | | | |
+1. [Lesson learned]
+2. [Lesson learned]
+3. [Lesson learned]
 
 ---
 
-## 8. Lessons Learned Summary
+## Shout-Outs 🙌
 
-*(The 3-5 most important takeaways from this project, distilled for future reference)*
+[Optional — recognize team members who went above and beyond this sprint.]
 
-1.
-2.
-3.
-4.
-5.
+- [Name] — [What they did]
+- [Name] — [What they did]
 
 ---
 
-## Sign-Off
+## Notes
 
-| Name | Role | Date |
-|---|---|---|
-| | Project Manager | |
-| | Project Sponsor | |
+[Any additional context from the retro discussion.]
 
 ---
 
-*This retrospective document should be stored in the project archive and referenced at the start of similar future projects.*
+*Template by Daizah Patterson | [pattersonstrategicsolutions.com](https://pattersonstrategicsolutions.com)*
