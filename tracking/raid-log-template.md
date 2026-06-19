@@ -1,63 +1,82 @@
-# RAID Log Template
+# RAID Log
 
-**Project Name:**
-**Project Manager:**
-**Last Updated:**
-
----
-
-## How to Use This Log
-
-Update this log at every sprint check-in or weekly status meeting. Each item should have an owner and a due date. Close items once resolved.
+**Project Name:** [Project Name]
+**Project Manager:** [Your Name]
+**Last Updated:** [MM/DD/YYYY]
 
 ---
 
 ## Risks
 
-Potential events that could negatively impact the project if they occur.
+*Risks are potential future events that could impact the project negatively or positively.*
 
-| ID | Risk Description | Likelihood (H/M/L) | Impact (H/M/L) | Mitigation Plan | Owner | Status |
-|---|---|---|---|---|---|---|
-| R-01 | | | | | | Open |
-| R-02 | | | | | | Open |
+| ID | Risk Description | Likelihood | Impact | Score | Mitigation Strategy | Owner | Status |
+|----|-----------------|-----------|--------|-------|-------------------|-------|--------|
+| R1 | [Description of risk] | High / Med / Low | High / Med / Low | H-H | [How to prevent or reduce] | [Name] | Open |
+| R2 | [Description of risk] | High / Med / Low | High / Med / Low | H-M | [How to prevent or reduce] | [Name] | Open |
+| R3 | [Description of risk] | High / Med / Low | High / Med / Low | M-L | [How to prevent or reduce] | [Name] | Closed |
+
+**Scoring Guide:**
+- **H-H** (High Likelihood, High Impact) = Critical — address immediately
+- **H-M / M-H** = High Priority — monitor closely
+- **M-M** = Medium Priority — monitor regularly
+- **L-L** = Low Priority — log and revisit
 
 ---
 
 ## Actions
 
-Tasks and follow-up items that need to be completed.
+*Actions are tasks that need to be completed to keep the project on track.*
 
-| ID | Action Item | Owner | Due Date | Status |
-|---|---|---|---|---|
-| A-01 | | | | Open |
-| A-02 | | | | Open |
+| ID | Action Description | Owner | Due Date | Priority | Status |
+|----|------------------|-------|---------|---------|--------|
+| A1 | [What needs to be done] | [Name] | [Date] | High | In Progress |
+| A2 | [What needs to be done] | [Name] | [Date] | Medium | Not Started |
+| A3 | [What needs to be done] | [Name] | [Date] | Low | Complete |
 
 ---
 
 ## Issues
 
-Problems that have already occurred and are actively affecting the project.
+*Issues are problems that have already occurred and need to be resolved.*
 
-| ID | Issue Description | Impact | Resolution Plan | Owner | Status |
-|---|---|---|---|---|---|
-| I-01 | | | | | Open |
-| I-02 | | | | | Open |
+| ID | Issue Description | Impact | Resolution Plan | Owner | Date Raised | Status |
+|----|-----------------|--------|----------------|-------|------------|--------|
+| I1 | [Description of issue] | [Impact on project] | [How it will be resolved] | [Name] | [Date] | Open |
+| I2 | [Description of issue] | [Impact on project] | [How it will be resolved] | [Name] | [Date] | Resolved |
 
 ---
 
 ## Dependencies
 
-External factors, teams, or deliverables the project relies on.
+*Dependencies are tasks or deliverables that must be completed before something else can proceed.*
 
-| ID | Dependency | Dependent On | Required By | Status |
-|---|---|---|---|---|
-| D-01 | | | | Pending |
-| D-02 | | | | Pending |
+| ID | Dependency Description | Dependent On | Blocking | Due Date | Status |
+|----|----------------------|-------------|---------|---------|--------|
+| D1 | [What is needed] | [Person / team / system] | [What it's blocking] | [Date] | Pending |
+| D2 | [What is needed] | [Person / team / system] | [What it's blocking] | [Date] | Complete |
+| D3 | [What is needed] | [Person / team / system] | [What it's blocking] | [Date] | At Risk |
 
 ---
 
-## Log History
+## RAID Log Summary
 
-| Date | Updated By | Summary of Changes |
-|---|---|---|
-| | | |
+| Category | Total | Open | Closed / Resolved |
+|----------|-------|------|------------------|
+| Risks | 0 | 0 | 0 |
+| Actions | 0 | 0 | 0 |
+| Issues | 0 | 0 | 0 |
+| Dependencies | 0 | 0 | 0 |
+
+---
+
+## Change Log
+
+| Date | Update | Updated By |
+|------|--------|-----------|
+| [Date] | RAID log created | [Name] |
+| [Date] | [What was updated] | [Name] |
+
+---
+
+*Template by Daizah Patterson | [pattersonstrategicsolutions.com](https://pattersonstrategicsolutions.com)*
