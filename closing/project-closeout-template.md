@@ -1,137 +1,118 @@
-# Project Closeout Template
+# Project Closeout Report
 
-**Project Name:**
-**Project Manager:**
-**Closeout Date:**
-**Client / Sponsor:**
-
----
-
-## Purpose
-
-The project closeout document formally closes the project, captures final outcomes, documents lessons learned, and ensures all deliverables have been handed off and accepted. It serves as the official record of what was delivered and how.
+**Project Name:** [Project Name]
+**Project Manager:** [Your Name]
+**Project Start Date:** [MM/DD/YYYY]
+**Project End Date:** [MM/DD/YYYY]
+**Report Date:** [MM/DD/YYYY]
+**Version:** 1.0
 
 ---
 
-## Project Overview
+## Executive Summary
 
-| Item | Details |
-|---|---|
-| Project Start Date | |
-| Project End Date | |
-| Original Target End Date | |
-| Total Duration | |
-| Team Size | |
-| Client / Organization | |
+[2-3 sentences summarizing the project — what was delivered, whether it met its goals, and any notable outcomes or challenges.]
 
 ---
 
-## Final Deliverables
+## Project Objectives vs. Outcomes
 
-*(Confirm each deliverable was completed and accepted)*
-
-| Deliverable | Description | Completion Date | Accepted By | Notes |
-|---|---|---|---|---|
-| | | | | |
-| | | | | |
-
----
-
-## Scope Summary
-
-**Was the project delivered within the original scope?** Yes / No / Partially
-
-**Scope changes made during the project:**
-- Change 1: reason and impact
-- Change 2: reason and impact
+| Objective | Target | Actual Result | Met? |
+|-----------|--------|--------------|------|
+| [Objective 1] | [Target metric] | [Actual metric] | ✅ Yes / ❌ No |
+| [Objective 2] | [Target metric] | [Actual metric] | ✅ Yes / ❌ No |
+| [Objective 3] | [Target metric] | [Actual metric] | ✅ Yes / ❌ No |
 
 ---
 
-## Schedule Summary
+## Deliverables Summary
 
-| Milestone | Planned Date | Actual Date | Variance | Notes |
-|---|---|---|---|---|
-| Project Kickoff | | | | |
-| Mid-Point Review | | | | |
-| Final Delivery | | | | |
-
-**Overall schedule performance:** On Time / Early / Delayed by [X] days
-
-**Primary reasons for any delays:**
--
+| Deliverable | Status | Notes |
+|-------------|--------|-------|
+| [Deliverable 1] | ✅ Delivered | [Any relevant notes] |
+| [Deliverable 2] | ✅ Delivered | [Any relevant notes] |
+| [Deliverable 3] | ⚠️ Partial | [What was delivered vs. not] |
+| [Deliverable 4] | ❌ Not Delivered | [Reason why] |
 
 ---
 
-## Budget Summary (if applicable)
+## Schedule Performance
 
-| Item | Budgeted | Actual | Variance |
-|---|---|---|---|
-| Total Project Cost | | | |
+| | Planned | Actual | Variance |
+|-|---------|--------|---------|
+| **Start Date** | [Date] | [Date] | [+/- days] |
+| **End Date** | [Date] | [Date] | [+/- days] |
+| **Total Duration** | [X weeks] | [X weeks] | [+/- days] |
 
----
-
-## Key Outcomes & Impact
-
-*(What did this project actually achieve? Tie back to the original objectives)*
-
-| Objective | Achieved? | Evidence / Metric |
-|---|---|---|
-| | Yes / Partial / No | |
-| | Yes / Partial / No | |
+**Schedule Variance Explanation:**
+[Explain any differences between planned and actual timeline.]
 
 ---
 
-## Client / Stakeholder Satisfaction
+## Budget Performance
 
-**Overall satisfaction:** ⭐⭐⭐⭐⭐
+| Category | Budgeted | Actual | Variance |
+|----------|---------|--------|---------|
+| [Category 1] | $[Amount] | $[Amount] | $[+/-] |
+| [Category 2] | $[Amount] | $[Amount] | $[+/-] |
+| **Total** | **$[Amount]** | **$[Amount]** | **$[+/-]** |
 
-**Feedback summary:**
+**Budget Variance Explanation:**
+[Explain any budget differences.]
 
-**Would they work with you again?** Yes / No / Unknown
+---
+
+## Risks & Issues Summary
+
+| ID | Description | Status | Resolution |
+|----|------------|--------|-----------|
+| R1 | [Risk description] | Resolved / Ongoing | [How it was handled] |
+| I1 | [Issue description] | Resolved / Ongoing | [How it was resolved] |
 
 ---
 
 ## Lessons Learned
 
-*(Top takeaways, reference the full retrospective document for detail)*
+### What Worked Well
+- [Something to repeat on future projects]
+- [Something to repeat on future projects]
 
-**What went well:**
-1.
-2.
-3.
+### What to Improve
+- [Something to do differently next time]
+- [Something to do differently next time]
 
-**What to improve:**
-1.
-2.
-3.
-
-**Recommendations for future similar projects:**
--
--
+### Recommendations for Future Projects
+- [Recommendation based on this project's experience]
+- [Recommendation based on this project's experience]
 
 ---
 
-## Handoff Checklist
+## Handoff Notes
 
-- [ ] All deliverables accepted by client or sponsor
-- [ ] Project files organized and archived
-- [ ] Access credentials or logins transferred to client
-- [ ] Training or documentation provided to end users
-- [ ] Retrospective completed and documented
-- [ ] Team members notified of project closure
-- [ ] Final status report distributed
-- [ ] RAID log closed out
+**Who is taking ownership after project close?**
+[Name, role, and contact info of the person or team receiving this deliverable]
+
+**What do they need to know?**
+[Key information, access credentials structure, maintenance notes, or ongoing tasks]
+
+**Documentation handed off:**
+- [ ] Project charter
+- [ ] Final deliverables
+- [ ] RAID log
+- [ ] Status reports archive
+- [ ] Retrospective notes
+- [ ] [Other]
 
 ---
 
-## Final Sign-Off
+## Stakeholder Sign-Off
 
 | Name | Role | Signature | Date |
-|---|---|---|---|
-| | Project Sponsor | | |
-| | Client Contact | | |
-| | Project Manager | | |
+|------|------|-----------|------|
+| [Sponsor Name] | Project Sponsor | __________ | [Date] |
+| [PM Name] | Project Manager | __________ | [Date] |
+| [Client Name] | Client / End User | __________ | [Date] |
 
 ---
 
-*Project officially closed on [DATE]. All documents archived at [LOCATION].*
+*Template by Daizah Patterson | [pattersonstrategicsolutions.com](https://pattersonstrategicsolutions.com)*
