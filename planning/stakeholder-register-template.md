@@ -1,73 +1,92 @@
-# Stakeholder Register Template
+# Stakeholder Register
 
-**Project Name:**
-**Project Manager:**
-**Last Updated:**
-
----
-
-## Purpose
-
-The stakeholder register identifies everyone who has an interest in or is impacted by the project. It helps the PM tailor communication, manage expectations, and ensure the right people are informed and engaged at the right times.
+**Project Name:** [Project Name]
+**Project Manager:** [Your Name]
+**Last Updated:** [MM/DD/YYYY]
 
 ---
 
-## Stakeholder Register
+## Stakeholder Directory
 
-| ID | Name | Organization | Role | Interest in Project | Influence (H/M/L) | Impact (H/M/L) | Communication Preference | Frequency | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| S-01 | | | Project Sponsor | Funding and strategic alignment | H | H | Email + Meeting | Bi-weekly | |
-| S-02 | | | Project Manager | Day-to-day execution | H | H | All channels | Daily | |
-| S-03 | | | Client Contact | Requirements and sign-off | H | H | Email | Weekly | |
-| S-04 | | | Team Member | Task delivery | M | M | Slack / standup | Daily | |
-| S-05 | | | End User | Uses the final deliverable | L | H | Survey / demo | At milestones | |
+| # | Name | Organization / Role | Contact | Influence | Interest | Engagement Level |
+|---|------|-------------------|---------|-----------|----------|-----------------|
+| 1 | [Name] | [Org / Role] | [Email] | High | High | Lead |
+| 2 | [Name] | [Org / Role] | [Email] | High | Low | Keep Satisfied |
+| 3 | [Name] | [Org / Role] | [Email] | Low | High | Keep Informed |
+| 4 | [Name] | [Org / Role] | [Email] | Low | Low | Monitor |
 
 ---
 
-## Influence vs. Interest Matrix
+## Influence vs. Interest Guide
 
-Use this to prioritize your engagement strategy:
+| Quadrant | Influence | Interest | Strategy |
+|----------|-----------|----------|---------|
+| **Manage Closely** | High | High | Engage fully, involve in decisions |
+| **Keep Satisfied** | High | Low | Regular updates, address concerns quickly |
+| **Keep Informed** | Low | High | Provide consistent communication |
+| **Monitor** | Low | Low | Minimal communication, check in periodically |
 
-```
-High Influence │ MANAGE CLOSELY     │ KEEP SATISFIED
-               │ (High Interest)    │ (Low Interest)
-               │────────────────────│────────────────
-Low Influence  │ KEEP INFORMED      │ MONITOR
-               │ (High Interest)    │ (Low Interest)
-               └────────────────────┴────────────────
-                    High Interest        Low Interest
-```
+---
 
-| Quadrant | Strategy |
-|---|---|
-| High Influence + High Interest | Manage closely: frequent communication, involve in decisions |
-| High Influence + Low Interest | Keep satisfied: update on major decisions, don't overwhelm |
-| Low Influence + High Interest | Keep informed: regular updates, welcome their input |
-| Low Influence + Low Interest | Monitor: minimal communication unless status changes |
+## Stakeholder Profiles
+
+### Stakeholder 1 — [Name]
+
+**Role:** [Title / Role on project]
+**Organization:** [Company or team]
+**Influence Level:** High / Medium / Low
+**Interest Level:** High / Medium / Low
+**Engagement Strategy:** [How will you engage this stakeholder?]
+**Communication Preference:** [Email / Slack / Weekly meeting / etc.]
+**Key Concerns:** [What does this stakeholder care most about?]
+**Notes:** [Any additional context]
+
+---
+
+### Stakeholder 2 — [Name]
+
+**Role:** [Title / Role on project]
+**Organization:** [Company or team]
+**Influence Level:** High / Medium / Low
+**Interest Level:** High / Medium / Low
+**Engagement Strategy:** [How will you engage this stakeholder?]
+**Communication Preference:** [Email / Slack / Weekly meeting / etc.]
+**Key Concerns:** [What does this stakeholder care most about?]
+**Notes:** [Any additional context]
+
+---
+
+### Stakeholder 3 — [Name]
+
+**Role:** [Title / Role on project]
+**Organization:** [Company or team]
+**Influence Level:** High / Medium / Low
+**Interest Level:** High / Medium / Low
+**Engagement Strategy:** [How will you engage this stakeholder?]
+**Communication Preference:** [Email / Slack / Weekly meeting / etc.]
+**Key Concerns:** [What does this stakeholder care most about?]
+**Notes:** [Any additional context]
 
 ---
 
 ## Communication Plan
 
-| Stakeholder | What They Need to Know | How | How Often | Owner |
-|---|---|---|---|---|
-| Project Sponsor | Overall status, risks, budget | Status report + meeting | Bi-weekly | PM |
-| Client Contact | Progress, decisions needed, deliverables | Email + call | Weekly | PM |
-| Team Members | Tasks, blockers, priorities | Standup + Slack | Daily | PM |
-| End Users | Timeline, what to expect | Email updates | At milestones | PM |
+| Stakeholder | Update Type | Frequency | Channel | Owner |
+|-------------|------------|-----------|---------|-------|
+| [Name] | Status Report | Weekly | Email | PM |
+| [Name] | Executive Summary | Bi-weekly | Meeting | PM |
+| [Name] | Sprint Review | End of each sprint | Slack | PM |
+| [Name] | Ad Hoc Updates | As needed | Email | PM |
 
 ---
 
-## Engagement Log
+## Change Log
 
-*(Track key stakeholder interactions, useful for accountability and project history)*
-
-| Date | Stakeholder | Type of Interaction | Key Points Discussed | Follow-Up Needed |
-|---|---|---|---|---|
-| | | Meeting / Email / Call | | |
+| Date | Change Made | Updated By |
+|------|------------|-----------|
+| [Date] | Initial register created | [Name] |
+| [Date] | [Change description] | [Name] |
 
 ---
 
-## Notes
-
-*(Any additional context about stakeholder dynamics, sensitivities, or history)*
+*Template by Daizah Patterson | [pattersonstrategicsolutions.com](https://pattersonstrategicsolutions.com)*
