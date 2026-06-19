@@ -8,7 +8,7 @@ Built by [Daizah Patterson](https://pattersonstrategicsolutions.com) — PMP · 
 
 ## Why This Exists
 
-Most teams waste hours building project documents from scratch on every new engagement. These templates are designed to be downloaded, customized, and deployed in minutes — so you can focus on delivering results instead of formatting documents.
+Most teams waste hours building project documents from scratch on every new engagement. These templates are designed to be downloaded, customized, and deployed in minutes so you can focus on delivering results instead of formatting documents.
 
 Every template here has been used in real projects across enterprise B2B telecom, 48-hour nonprofit website sprints, and volunteer program coordination.
 
